@@ -6,7 +6,7 @@ Check out my portfolio  <a href="https://www.soleildagneau.ca/">here</>
    <br><br>
 
   <a href="https://www.linkedin.com/in/soleildagneau/">
-  <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%233a86ff.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
   <a href="https://github.com/SoleilDagneau">
   <img alt="github followers" title="Follow me on Github" src="https://img.shields.io/github/followers/SoleilDagneau?color=%23E1AD0E&labelColor=C79600&style=for-the-badge&logo=github&label=Follow"/></a>
