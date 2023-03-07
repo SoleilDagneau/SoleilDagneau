@@ -2,6 +2,7 @@
 <p align="center">
 I'm a UX/UI designer and Graphic Designer from Vancouver, BC. 
 Check out my portfolio  <a href="https://www.soleildagneau.ca/">here</>
+   <br><br>
 
   <a href="https://www.linkedin.com/in/soleildagneau/">
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
