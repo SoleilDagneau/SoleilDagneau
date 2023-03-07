@@ -27,4 +27,9 @@ Check out my portfolio  <a href="https://www.soleildagneau.ca/">here</>
 <br>
 <p>
   <a href="https://github.com/search?q=user%3ASoleilDagneau+language%3Anextjs"><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
+                                                                                    
+<a href="https://github.com/search?q=user%3ASoleilDagneau+language%3Ajavascript"><img alt="Java" src="https://img.shields.io/badge/javascript%20-FB5607?style=for-the-badge&logo=Javascript"></a>
+<a href="https://github.com/search?q=user%3ASoleilDagneau+language%3Anextjs"><img alt="Next" src="https://img.shields.io/badge/Next.js%20-ff006e?style=for-the-badge&logo=Next.js"></a>
+<a href="#"><img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-8338ec?style=for-the-badge&logo=VisualStudioCode"></a>
+<a href="https://github.com/search?q=user%3ASoleilDagneau+language%3Aexpo"><img alt="Expo" src="https://img.shields.io/badge/Expo%20-3a86ff?style=for-the-badge&logo=Expo"></a>
 </p>
