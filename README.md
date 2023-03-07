@@ -1,6 +1,7 @@
 <h2 align="center"> Hi! I'm Soleil Dagneau</h2>
 <p align="center">
 I'm a UX/UI designer and Graphic Designer from Vancouver, BC. 
+    <br><br>
 Check out my portfolio  <a href="https://www.soleildagneau.ca/">here</>
    <br><br>
 
