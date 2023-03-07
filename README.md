@@ -1,5 +1,7 @@
 <h2 align="center"> Hi! I'm Soleil Dagneau</h2>
 <p align="center">
+I'm a UX/UI designer and Graphic Designer from Vancouver, BC. 
+Check out my portfolio  <a href="https://www.soleildagneau.ca/">here</>
 
   <a href="https://www.linkedin.com/in/soleildagneau/">
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
