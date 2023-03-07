@@ -9,7 +9,7 @@ Check out my portfolio  <a href="https://www.soleildagneau.ca/">here</>
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%233a86ff.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
   <a href="https://github.com/SoleilDagneau">
-  <img alt="github followers" title="Follow me on Github" src="https://img.shields.io/github/followers/SoleilDagneau?color=%23ff006e&labelColor=ff006e&style=for-the-badge&logo=github&label=Follow"/></a>
+  <img alt="github followers" title="Follow me on Github" src="https://img.shields.io/github/followers/SoleilDagneau?color=%23ff0061&labelColor=ff006e&style=for-the-badge&logo=github&label=Follow"/></a>
 
  
   <br><br>
